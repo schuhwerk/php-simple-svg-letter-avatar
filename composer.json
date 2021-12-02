@@ -1,0 +1,24 @@
+{
+	"name": "schuhwerk/php-simple-svg-letter-avatar",
+	"description": "avatar, image, src, dynamic image, svg, letter, initials, letter-avatar, user",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Vitus Schuhwerk",
+			"email": "vitus.schuhwerk@gmail.com"
+		}
+	],
+	"autoload": {
+		"files" : [
+			"php-simple-svg-letter-avatar.php"
+		]
+	},
+	"require": {
+		"php": "^7 || ^8"
+	},
+	"support": {
+		"issues": "https://github.com/schuhwerk/php-simple-svg-letter-avatar/issues",
+		"source": "https://github.com/schuhwerk/php-simple-svg-letter-avatar"
+	},
+	"minimum-stability": "dev"
+}
